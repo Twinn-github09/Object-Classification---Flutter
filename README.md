@@ -1,8 +1,9 @@
-# Car_classification
+# 🚗 Car Classification
 
-A new Flutter project.
+A Flutter project.
+Uses tflite model to classify car images.
 
-# Demo
+# 🔧 Demo
 
 https://github.com/Twinn-github09/Object-Classification---Flutter/assets/88413854/4379d79d-f877-4345-af99-dedf48c41ec3
 
